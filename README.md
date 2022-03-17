@@ -1,3 +1,4 @@
-# Task 1:
-Lunar albedo detection
+# Tasks:
+Machine Learning Model for the Planetary Albedo 
+
 ![Lunar](images/right_truth.png)
