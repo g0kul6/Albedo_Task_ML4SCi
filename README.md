@@ -1,2 +1,3 @@
-# Albedo_Task_ML4SCi
-Task
+# Task 1:
+Lunar albedo detection
+
