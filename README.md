@@ -1,4 +1,4 @@
 # Tasks:
 Machine Learning Model for the Planetary Albedo 
 
-![Lunar](images/right_truth.png)
+![Lunar](images/Lunar_Albedo/complete_albedo.png)
