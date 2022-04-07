@@ -1,5 +1,5 @@
-DATA/
+/DATA/*
 
-runs/
+/runs/*
 
-pytorch-models/
+/pytorch-models/*
