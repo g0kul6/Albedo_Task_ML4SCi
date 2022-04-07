@@ -1,5 +1,5 @@
-MLMAPPER/DATA
+MLMAPPER/DATA/
 
-MLMAPPER/runs
+MLMAPPER/runs/
 
-MLMAPPER/pytorch-models
+MLMAPPER/pytorch-models/
