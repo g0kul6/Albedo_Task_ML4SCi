@@ -1,5 +1,8 @@
+#ignore the directory with the DATA
 DATA/
 
+#tensorboard files
 runs/
 
-pytorch-models/
+
+
