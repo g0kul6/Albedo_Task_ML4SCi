@@ -7,9 +7,15 @@ Machine Learning Model for the Planetary Albedo
 
 ## Prediction Results for normal:
 
-#### After a lot of manual hyper-parmeter tuning of neural network with 3 hidden layers we get best results for lr=0.00001, batch_size=64 and  epochs=200
+#### After a lot of manual hyper-parmeter tuning of neural network with 3 hidden layers we get best results for lr=0.00001, batch_size=64 and  epochs=200 for normal.
 
-# Loss/Epoch Graph for different hyperparameters:
+#### For nearby pixels method the graph convereged with epochs=100
+
+# Loss/Epoch Curve for nearby plixels method:
+
+![Lunar3](images/Lunar_Albedo/loss_epoch.png)
+
+# Loss/Epoch Curve for different hyperparameters in normal method:
 
 ![Lunar2](images/Lunar_Albedo/64,128,256.png)
 
