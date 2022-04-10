@@ -7,6 +7,15 @@ Machine Learning Model for the Planetary Albedo
 
 ##### Above are some of my own ideas to solve the problem.(Not sure about idea No.2)
 
+# Idea No.1 with autoencoder+nearby pixel method loss/epoch and results:
+
+![Lunar5](images/Lunar_Albedo/autoencoder_lunar_loss-epoch.png)
+
+
+<mark>RMSE =  0.011029566272136759 ~ 0.01(highest so far)</mark>
+
+<mark>R2 =  0.9282636140570228 ~ 0.9(highest so far)</mark>
+
 # Task1:
 
 ![Lunar](images/Lunar_Albedo/complete_albedo.png)
