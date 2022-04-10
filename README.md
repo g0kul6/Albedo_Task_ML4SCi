@@ -11,6 +11,9 @@ Machine Learning Model for the Planetary Albedo
 
 ![Lunar5](images/Lunar_Albedo/autoencoder_lunar_loss-epoch.png)
 
+![Lunar5](images/Lunar_Albedo/hist_autoencoder_lunar.png)
+
+
 
 <mark>RMSE =  0.011029566272136759 ~ 0.01(highest so far)</mark>
 
