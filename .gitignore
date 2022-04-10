@@ -3,3 +3,6 @@ DATA/
 
 #tensorboard files
 runs/
+
+#dump
+dump.ipynb
