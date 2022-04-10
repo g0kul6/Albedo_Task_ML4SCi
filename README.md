@@ -27,10 +27,12 @@ Machine Learning Model for the Planetary Albedo
 
 
 <mark>RMSE = 0.021777820362415982 ~ 0.02</mark>
+
 <mark>R2 = 0.5114797708710908 ~ 0.5</mark>
 
 ## Prediction Results for nearby:
 <mark>RMSE = 0.02398096107180612 ~ 0.02</mark>
+
 <mark>R2 = 0.6268074896858192 ~ 0.6</mark>
 
 ### Lunar Albedo Prediction Normal:
